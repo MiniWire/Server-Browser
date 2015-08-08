@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
 [assembly: AssemblyTitle("Server Browser")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Server Browser for minisinc.ddns.net Servers")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Server Browser")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyCopyright("Copyright ©  2015 Miniwire")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

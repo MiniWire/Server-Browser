@@ -10,7 +10,8 @@ C:\Users\Rene\Desktop\GitHub\Server-Browser\Server Browser\obj\Debug\Server Brow
 C:\Users\Rene\Desktop\GitHub\Server-Browser\Server Browser\obj\Debug\Server Browser.pdb
 C:\Users\Rene\Desktop\GitHub\Server-Browser\Server Browser\bin\Debug\Server Browser.exe
 C:\Users\Rene\Desktop\GitHub\Server-Browser\Server Browser\bin\Debug\Server Browser.pdb
-C:\Users\Rene\Desktop\GitHub\Server-Browser\Server Browser\obj\Debug\Server Browser.csprojResolveAssemblyReference.cache
-C:\Users\Rene\Desktop\GitHub\Server-Browser\Server Browser\obj\Debug\Server_Browser.Form1.resources
 C:\Users\Rene\Desktop\GitHub\Server-Browser\Server Browser\obj\Debug\Server_Browser.Properties.Resources.resources
 C:\Users\Rene\Desktop\GitHub\Server-Browser\Server Browser\obj\Debug\Server Browser.csproj.GenerateResource.Cache
+C:\Users\Rene\Desktop\GitHub\Server-Browser\Server Browser\obj\Debug\Server Browser.csprojResolveAssemblyReference.cache
+C:\Users\Rene\Desktop\GitHub\Server-Browser\Server Browser\obj\Debug\Server_Browser.ServerBrowser.resources
+C:\Users\Rene\Desktop\GitHub\Server-Browser\Server Browser\obj\Debug\Server_Browser.About.resources
